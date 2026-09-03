@@ -62,4 +62,21 @@ src/
 
 part1_wave.pdf
 part2_wave.pdf
+three_k_plus_one.xdc
+process.bit
+asm.bit
 project_report_COEN_313_40264986.pdf
+```
+
+## Repository Contents
+
+| File / Folder | Description |
+|---|---|
+| `src/rtl/` | Part 1 VHDL implementation using direct RTL design |
+| `src/asm/` | Part 2 VHDL implementation using the ASM approach |
+| `three_k_plus_one.xdc` | FPGA pin and I/O constraints used for hardware implementation |
+| `process.bit` | Generated FPGA bitstream for the RTL implementation |
+| `asm.bit` | Generated FPGA bitstream for the ASM implementation |
+| `part1_wave.pdf` | ModelSim simulation waveform for the RTL design |
+| `part2_wave.pdf` | ModelSim simulation waveform for the ASM design |
+| `project_report_COEN_313_40264986.pdf` | Complete project report with design methodology, results, ASM chart, block diagram, simulations, and implementation evidence |
